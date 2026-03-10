@@ -1,6 +1,6 @@
 # Homework Assignment 12
 
-![Assignment 12](https://github.com/PGE383-HPC/assignment12-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 12](https://github.com/PGE383-HPC/assignment12/actions/workflows/main.yml/badge.svg)
 
 When parallel tasks are independent from each other, they are called *embarrassingly parallel*.  While there are several ways to approach these problems, including batch schedulers, we can also write simple MPI programs to complete these tasks.
 
